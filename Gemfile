@@ -12,6 +12,11 @@ gem 'rails', '~> 5.1.4'
 gem 'sqlite3'
 gem 'devise'
 gem 'milia', github: 'jekuno/milia', ref: '05b72dd'
+gem 'jquery-rails'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+gem 'certified'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
